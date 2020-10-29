@@ -1,0 +1,1 @@
+(this.webpackJsonpmonet_swap=this.webpackJsonpmonet_swap||[]).push([[8],{1003:function(n,o){},1004:function(n,o){},1030:function(n,o){},1031:function(n,o){},1037:function(n,o){},1272:function(n,o){}}]);
