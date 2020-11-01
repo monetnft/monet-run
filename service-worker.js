@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://cdn.jsdelivr.net/gh/monetnft/monet-run@0.0.12/precache-manifest.d3174f087c71691b6d1898a17b555bc3.js"
+  "https://cdn.jsdelivr.net/gh/monetnft/monet-run@0.0.13/precache-manifest.53632cc1bedd151ee355044374ac3e07.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("https://cdn.jsdelivr.net/gh/monetnft/monet-run@0.0.12/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("https://cdn.jsdelivr.net/gh/monetnft/monet-run@0.0.13/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
