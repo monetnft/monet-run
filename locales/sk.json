@@ -378,5 +378,8 @@
     "help_notice_cont_1": "채굴 풀은 당신이 저당하는 LP의 수에 따라 매일 L-MNT 토큰을 얻을 수 있습니다.",
     "help_notice_cont_2": "L-MNT 토큰이 충분하다면 공식 웹 사이트로 직접 이동하여 레벨 10 모네 카드를 사용할 수 있습니다.",
     "help_notice_cont_3": "랭크 10의 서로 다른 수트의 카드 4 장을 수집하면 카드를 조합하여 9로 업그레이드 할 수 있습니다.",
-    "help_notice_cont_4": "카드를 1로 성공적으로 업그레이드하면 높은 가치의 잭팟을 얻을 수 있습니다."
+    "help_notice_cont_4": "카드를 1로 성공적으로 업그레이드하면 높은 가치의 잭팟을 얻을 수 있습니다.",
+    "No_cards_are_airdrop": "에어 드랍되지 않음",
+    "Drop_${drawNum}_cards": "에어 드랍에 카드 {{drawNum}} 장",
+    "Airdrop_result": "에어 드랍 결과"
 }

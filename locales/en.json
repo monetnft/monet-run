@@ -380,5 +380,8 @@
     "help_notice_cont_3": "When you have collected all 4 different decks of Artwork 10, you can move up, and so on",
     "help_notice_cont_4": "When you successfully upgrade to NFT Artwork 1, the prize pool will distribute to you the Mega Millions jackpot.",
     "btn_airdrop": "Airdrop",
-    "Airdrop_Card_Lottery": "Receive airdrop"
+    "Airdrop_Card_Lottery": "Receive airdrop",
+    "No_cards_are_airdrop": "No cards are airdrop",
+    "Drop_${drawNum}_cards": "Airdrop {{drawNum}} cards",
+    "Airdrop_result": "Airdrop result"
 }

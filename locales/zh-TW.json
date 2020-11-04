@@ -19,9 +19,9 @@
     "pending": "處理中",
     "selectToken": "選擇代幣",
     "searchOrPaste": "選擇代幣或輸入地址",
-    "searchOrPasteMobile": "Name, Symbol, or Address",
+    "searchOrPasteMobile": "名字，符號或地址",
     "noExchange": "找不到交易所",
-    "noToken": "No Token Found",
+    "noToken": "沒有找到代幣",
     "exchangeRate": "匯率",
     "unknownError": "Oops! An unknown error occurred. Please refresh the page, or visit from another browser or device.",
     "enterValueCont": "輸入 {{ missingCurrencyValue }} 以繼續。",
@@ -380,5 +380,8 @@
     "help_notice_cont_3": "如果你集齊4張等級為10的花色不同的卡牌，你就可以將卡牌合併升級到9，以此類推。",
     "help_notice_cont_4": "如果你成功將卡牌升級到1，你會獲取到高額價值的頭獎。",
     "Airdrop_Card_Lottery": "空投領取",
-    "btn_airdrop": "領取"
+    "btn_airdrop": "領取",
+    "No_cards_are_airdrop": "未空投中",
+    "Drop_${drawNum}_cards": "空投中 {{drawNum}}張卡牌",
+    "Airdrop_result": "空投結果"
 }
