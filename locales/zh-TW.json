@@ -269,7 +269,7 @@
     "import_it": "導入",
     "dont_see_a_pool_you_joined": "看不到您添加的資金池？",
     "uniswap_liquidity_mining": "Monet流動性挖礦",
-    "uniswap_liquidity_mining_hint": "存放您的流動性提供程序令牌以接收MNT，即Monet協議治理令牌",
+    "uniswap_liquidity_mining_hint": "存放您的流動性提供程序令牌以接收L-MNT，即Monet唯一抽獎代幣",
     "read_more_about_uni": "閱讀更多關於UNI",
     "participating_pools": "參與礦池",
     "no_active_rewards": "無活動獎勵",
@@ -364,7 +364,8 @@
     "your_position": "你的位置",
     "from": "從",
     "quantity": "數量",
-    "Airdrop": "空投","help_title": "遊戲介紹",
+    "Airdrop": "空投",
+    "help_title": "遊戲介紹",
     "help_Q_1": "1. 莫奈UNIV2-LP挖礦",
     "help_A_1": "在UniSwap礦池中加入相同數量的USDT和MNT",
     "help_Q_2": "2. 進入官網的礦池",
@@ -377,5 +378,7 @@
     "help_notice_cont_1": "礦池每天都能根據你抵押的LP數量為你賺取L-MNT代幣。",
     "help_notice_cont_2": "如果你有足夠多的L-MNT代幣，你可以直接到官網贖取等級為10的莫奈卡牌。",
     "help_notice_cont_3": "如果你集齊4張等級為10的花色不同的卡牌，你就可以將卡牌合併升級到9，以此類推。",
-    "help_notice_cont_4": "如果你成功將卡牌升級到1，你會獲取到高額價值的頭獎。"
+    "help_notice_cont_4": "如果你成功將卡牌升級到1，你會獲取到高額價值的頭獎。",
+    "Airdrop_Card_Lottery": "空投領取",
+    "btn_airdrop": "領取"
 }

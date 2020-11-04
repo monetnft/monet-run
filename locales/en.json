@@ -269,7 +269,7 @@
     "import_it": "Import it.",
     "dont_see_a_pool_you_joined": "Don't see a pool you joined?",
     "uniswap_liquidity_mining": "Monet liquidity mining",
-    "uniswap_liquidity_mining_hint": "Deposit your Liquidity Provider tokens to receive MNT, the Monet protocol governance token.",
+    "uniswap_liquidity_mining_hint": "Deposit your Liquidity Provider tokens to receive L-MNT, the Monet adjective lottery token.",
     "read_more_about_uni": "Read more about UNI",
     "participating_pools": "Participating pools",
     "no_active_rewards": "No active rewards",
@@ -378,6 +378,7 @@
     "help_notice_cont_1": "The pool will earn you L-MNT every day according to the number of LP you bet. ",
     "help_notice_cont_2": "When you have earned enough L-MNT, you can redeem the L-MNT directly on the website for the required Monet Artwork 10.",
     "help_notice_cont_3": "When you have collected all 4 different decks of Artwork 10, you can move up, and so on",
-    "help_notice_cont_4": "When you successfully upgrade to NFT Artwork 1, the prize pool will distribute to you the Mega Millions jackpot."
+    "help_notice_cont_4": "When you successfully upgrade to NFT Artwork 1, the prize pool will distribute to you the Mega Millions jackpot.",
+    "btn_airdrop": "Airdrop",
+    "Airdrop_Card_Lottery": "Receive airdrop"
 }
-
