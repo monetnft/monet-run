@@ -176,7 +176,7 @@
     "More_than_your_lucky_draw": "최대 펌핑 수를 초과합니다",
     "Please_enter_the_number_of_lucky_draw": "펌핑 수를 입력합니다",
     "Lottery_result": "펌핑 결과",
-    "Draw_${drawNum}_cards": "펌 중{{drawNum}}cards",
+    "Draw_${drawNum}_cards": "펌 중{{drawNum}} 카드",
     "No_cards_are_drawn": "카드가 뽑히지 않아서 유감입니다",
     "Remaining_cards_$count": "풀 남은 항목: {{count}}",
     "Drall_all": "한 번 펌핑",

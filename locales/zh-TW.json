@@ -176,7 +176,7 @@
     "More_than_your_lucky_draw": "超出您的最大抽獎次數",
     "Please_enter_the_number_of_lucky_draw": "請輸入抽獎次數",
     "Lottery_result": "抽獎結果",
-    "Draw_${drawNum}_cards": "抽中{{drawNum}}cards",
+    "Draw_${drawNum}_cards": "抽中{{drawNum}}卡牌",
     "No_cards_are_drawn": "很遺憾未抽中卡牌",
     "Remaining_cards_$count": "獎池剩餘：{{count}}",
     "Drall_all": "一鍵抽牌",
