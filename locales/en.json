@@ -326,5 +326,8 @@
     "amount": "Amount",
     "simple": "Simple",
     "detailed": "Detailed",
-    "approved": "Approved"
+    "approved": "Approved",
+    "error_network_hint": "This chain is not supported for the time being",
+    "your_position": "Your position",
+    "from": "From"
 }

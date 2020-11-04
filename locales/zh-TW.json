@@ -238,7 +238,7 @@
     "Approve_currencies[Field.INPUT]?.symbol": "授權{{symbol}}",
     "Price_Impact_High": "價格影響偏高",
     "Price_Impact_Too_High": "價格影響太高",
-    "Swap_Str": "{{str}} Swap",
+    "Swap_Str": "{{str}} 兌換",
     "Approving": "授權中",
     "liquidity_provider_rewards": "流動性提供者獎勵",
     "liquidity_provider_rewards_hint": "流動性提供者從所有交易中賺取0.3%的手續費，這與他們在池中的份額成比例。費用會添加到池中，實時累積，並可以通過提取您的流動資金來申請。",
@@ -332,5 +332,8 @@
     "amount": "金額",
     "simple": "簡明",
     "detailed": "具體",
-    "approved": "已授權"
+    "approved": "已授權",
+    "error_network_hint": "暫不支持此網路",
+    "your_position": "你的位置",
+    "from": "從"
 }
