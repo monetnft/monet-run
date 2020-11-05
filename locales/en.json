@@ -258,6 +258,7 @@
     "Approving": "Approving",
     "liquidity_provider_rewards": "Liquidity provider rewards",
     "liquidity_provider_rewards_hint": "Liquidity providers earn a 0.3% fee on all trades proportional to their share of the pool. Fees are added to the pool, accrue in real time and can be claimed by withdrawing your liquidity.",
+    "liquidity_provider_rewards_hint2": "By adding liquidity you'll earn 0.3% of all trades on this pair proportional to your share of the pool. Fees are added to the pool, accrue in real time and can be claimed by withdrawing your liquidity.",
     "read_more_about_providing_liquidity": "Read more about providing liquidity",
     "your_liquidity": "Your liquidity",
     "create_a_pair": "Create a pair",
@@ -398,5 +399,19 @@
     "liquidity_provider_fee": "Liquidity Provider Fee",
     "liquidity_provider_fee_hint": "A portion of each trade (0.30%) goes to liquidity providers as a protocol incentive.",
     "confirm_price_impact_hint": "This swap has a price impact of at least {{percent}}%. Please type the word \"confirm\" to continue with this swap.",
-    "confirm_price_impact_hint2": "This swap has a price impact of at least {{percent}}%. Please confirm that you would like to continue with this swap."
+    "confirm_price_impact_hint2": "This swap has a price impact of at least {{percent}}%. Please confirm that you would like to continue with this swap.",
+    "total_deposited": "Total deposited",
+    "your_liquidity_deposits": "Your liquidity deposits",
+    "your_unclaimed": "Your unclaimed ",
+    "claim": "Claim",
+    "when_you_withdraw_hint": "When you withdraw, the contract will automagically claim MNT on your behalf!",
+    "withdraw": "Withdraw",
+    "deposit_?_tokens": "Deposit {{token}} Tokens",
+    "tokens_available": " tokens available",
+    "week": "week",
+    "mine_sp1": "Step 1. Get MNT Liquidity tokens",
+    "add_?_liquidity": "Add {{a}}-{{b}} liquidity",
+    "add_?_liquidity_hint": "MNT LP tokens are required. Once you've added liquidity to the {{a}}-{{b}} pool you can stake your liquidity tokens on this page.",
+    "available_to_deposit": "Available to deposit",
+    "your_rate": "Your rate"
 }

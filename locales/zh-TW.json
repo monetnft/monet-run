@@ -258,6 +258,7 @@
     "Approving": "授權中",
     "liquidity_provider_rewards": "流動性提供者獎勵",
     "liquidity_provider_rewards_hint": "流動性提供者從所有交易中賺取0.3%的手續費，這與他們在池中的份額成比例。費用會添加到池中，實時累積，並可以通過提取您的流動資金來申請。",
+    "liquidity_provider_rewards_hint2": "通過添加流動性，您將獲得此交易對所有交易的0.3％，與您的總份額成正比。 費用會實時添加到資金池中，並且可以通過撤回流動性來獲取。",
     "read_more_about_providing_liquidity": "閱讀有關提供流動性的更多信息",
     "your_liquidity": "妳的流動性",
     "create_a_pair": "創建交易對",
@@ -398,5 +399,19 @@
     "liquidity_provider_fee": "流動性提供者費用",
     "liquidity_provider_fee_hint": "每壹項交易(0.30%)中的壹部分都是作為協議激勵來向流動性提供者提供的。",
     "confirm_price_impact_hint": "該兌換至少有{{percent}}%的價格波動，請輸入\"confirm\"以繼續此兌換",
-    "confirm_price_impact_hint2": "該兌換至少有{{percent}}%的價格波動，請確認您想繼續進行此交換。"
+    "confirm_price_impact_hint2": "該兌換至少有{{percent}}%的價格波動，請確認您想繼續進行此交換。",
+    "total_deposited": "總存入量",
+    "your_liquidity_deposits": "你的流動性存入量",
+    "your_unclaimed": "你的無領取",
+    "claim": "領取",
+    "when_you_withdraw_hint": "當您退出時，智能合約將代您自動領取MNT！",
+    "withdraw": "退出",
+    "deposit_?_tokens": "存入{{token}}代幣",
+    "tokens_available": "可用代幣",
+    "week": "周",
+    "mine_sp1": "第一步：獲取MNT流動性代幣",
+    "add_?_liquidity": "增加{{a}}-{{b}}流動性",
+    "add_?_liquidity_hint": "請求MNT LP代幣，將流動性添加到{{a}}-{{b}}資金池中後，您可以在此頁面投入您的流動性代幣",
+    "available_to_deposit": "可存入",
+    "your_rate": "你的速率"
 }
