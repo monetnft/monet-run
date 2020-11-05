@@ -381,5 +381,20 @@
     "help_notice_cont_4": "카드를 1로 성공적으로 업그레이드하면 높은 가치의 잭팟을 얻을 수 있습니다.",
     "No_cards_are_airdrop": "에어 드랍되지 않음",
     "Drop_${drawNum}_cards": "에어 드랍에 카드 {{drawNum}} 장",
-    "Airdrop_result": "에어 드랍 결과"
+    "Airdrop_result": "에어 드랍 결과",
+    "summary_output": "Output is estimated. If the price changes by more than {{percent}}% your transaction will revert.",
+    "supplying-hint": "Supplying {{a}} and {{b}}",
+    "your_pool_tokens": "Your pool tokens",
+    "pooled": "Pooled",
+    "found_by_address": "Found by address",
+    "confirm_swap": "Confirm Swap",
+    "minimum_received": "Minimum received",
+    "maximum_sold": "Maximum sold",
+    "maximum_sold_hint": "Your transaction will revert if there is a large, unfavorable price movement before it is confirmed.",
+    "price_impact": "Price Impact",
+    "price_impact_hint": "The difference between the market price and your price due to trade size.",
+    "liquidity_provider_fee": "Liquidity Provider Fee",
+    "liquidity_provider_fee_hint": "A portion of each trade (0.30%) goes to liquidity providers as a protocol incentive.",
+    "confirm_price_impact_hint": "This swap has a price impact of at least {{percent}}%. Please type the word \"confirm\" to continue with this swap.",
+    "confirm_price_impact_hint2": "This swap has a price impact of at least {{percent}}%. Please confirm that you would like to continue with this swap."
 }
