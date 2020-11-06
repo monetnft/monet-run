@@ -437,7 +437,5 @@
     "removing_?_and_?": "Removing {{a}} and {{b}}",
     "burned": "Burned",
     "receive": "Receive",
-    "?_per_?": "{{a}} per {{b}}",
-    "when_you_claim_hint": "When you claim without withdrawing your liquidity remains in the mining pool.",
-    "unclaimed": "Unclaimed"
+    "?_per_?": "{{a}} per {{b}}"
 }
