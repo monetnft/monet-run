@@ -1,67 +1,67 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "992cf05202af9354de2e6e7214dcfa47",
+    "revision": "0b997a61e527c0d32070ca7e649a5c34",
     "url": "https://cdn.jsdelivr.net/gh/monetnft/monet-run@0.0.44/index.html"
   },
   {
-    "revision": "fe1757208590e255062d",
-    "url": "https://cdn.jsdelivr.net/gh/monetnft/monet-run@0.0.44/static/css/4.9bd6b132.chunk.css"
+    "revision": "be470e7455a0f4e7620c",
+    "url": "https://cdn.jsdelivr.net/gh/monetnft/monet-run@0.0.44/static/css/4.0f96c495.chunk.css"
   },
   {
-    "revision": "c076ad10412e33bb5e0e",
-    "url": "https://cdn.jsdelivr.net/gh/monetnft/monet-run@0.0.44/static/css/main.7b661f05.chunk.css"
+    "revision": "36afa58dfae99e55ef8c",
+    "url": "https://cdn.jsdelivr.net/gh/monetnft/monet-run@0.0.44/static/css/main.8e3b36d1.chunk.css"
   },
   {
-    "revision": "d36e490f6cc3c433c177",
-    "url": "https://cdn.jsdelivr.net/gh/monetnft/monet-run@0.0.44/static/js/0.13695bb0.chunk.js"
+    "revision": "7d3ef5d4952f8fc84eac",
+    "url": "https://cdn.jsdelivr.net/gh/monetnft/monet-run@0.0.44/static/js/0.79646361.chunk.js"
   },
   {
-    "revision": "0e507546936da647fb84",
-    "url": "https://cdn.jsdelivr.net/gh/monetnft/monet-run@0.0.44/static/js/1.e994fb64.chunk.js"
+    "revision": "5ad66d12ce04dbff19db",
+    "url": "https://cdn.jsdelivr.net/gh/monetnft/monet-run@0.0.44/static/js/1.2d31f373.chunk.js"
   },
   {
-    "revision": "fe1757208590e255062d",
-    "url": "https://cdn.jsdelivr.net/gh/monetnft/monet-run@0.0.44/static/js/4.6b08e8f6.chunk.js"
+    "revision": "be470e7455a0f4e7620c",
+    "url": "https://cdn.jsdelivr.net/gh/monetnft/monet-run@0.0.44/static/js/4.99afb81e.chunk.js"
   },
   {
-    "revision": "73bb71bcb581ec71646b2b0e2272e375",
-    "url": "https://cdn.jsdelivr.net/gh/monetnft/monet-run@0.0.44/static/js/4.6b08e8f6.chunk.js.LICENSE.txt"
+    "revision": "ae94e54fac8d54c0896df4607b01d787",
+    "url": "https://cdn.jsdelivr.net/gh/monetnft/monet-run@0.0.44/static/js/4.99afb81e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2659a272de75cebc3142",
-    "url": "https://cdn.jsdelivr.net/gh/monetnft/monet-run@0.0.44/static/js/5.764b8cf3.chunk.js"
+    "revision": "662f6480564b5fd5d3c0",
+    "url": "https://cdn.jsdelivr.net/gh/monetnft/monet-run@0.0.44/static/js/5.c0b2ae5f.chunk.js"
   },
   {
     "revision": "95b85fc57f7f49a2f3a98124773ccfef",
-    "url": "https://cdn.jsdelivr.net/gh/monetnft/monet-run@0.0.44/static/js/5.764b8cf3.chunk.js.LICENSE.txt"
+    "url": "https://cdn.jsdelivr.net/gh/monetnft/monet-run@0.0.44/static/js/5.c0b2ae5f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3a2eff38cd102f88d354",
-    "url": "https://cdn.jsdelivr.net/gh/monetnft/monet-run@0.0.44/static/js/6.b3752186.chunk.js"
+    "revision": "ca60b55e55afb0270f67",
+    "url": "https://cdn.jsdelivr.net/gh/monetnft/monet-run@0.0.44/static/js/6.b4b33265.chunk.js"
   },
   {
-    "revision": "5b4799764ea0dfe00259",
-    "url": "https://cdn.jsdelivr.net/gh/monetnft/monet-run@0.0.44/static/js/7.48d4312c.chunk.js"
+    "revision": "bc54d001b1fa86328a4d",
+    "url": "https://cdn.jsdelivr.net/gh/monetnft/monet-run@0.0.44/static/js/7.92c4b2dc.chunk.js"
   },
   {
-    "revision": "f121fd36a8e5922f7e74",
-    "url": "https://cdn.jsdelivr.net/gh/monetnft/monet-run@0.0.44/static/js/8.34145c3b.chunk.js"
+    "revision": "159458cbe9a7c75feb02",
+    "url": "https://cdn.jsdelivr.net/gh/monetnft/monet-run@0.0.44/static/js/8.bc1e5bdf.chunk.js"
   },
   {
-    "revision": "ccc9f362c38bc9bc4833",
-    "url": "https://cdn.jsdelivr.net/gh/monetnft/monet-run@0.0.44/static/js/9.97a617c0.chunk.js"
+    "revision": "2e58f5cd2b8f33dc7a3e",
+    "url": "https://cdn.jsdelivr.net/gh/monetnft/monet-run@0.0.44/static/js/9.12805df2.chunk.js"
   },
   {
     "revision": "c178649ae0de162657ef6caa733cc024",
-    "url": "https://cdn.jsdelivr.net/gh/monetnft/monet-run@0.0.44/static/js/9.97a617c0.chunk.js.LICENSE.txt"
+    "url": "https://cdn.jsdelivr.net/gh/monetnft/monet-run@0.0.44/static/js/9.12805df2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c076ad10412e33bb5e0e",
-    "url": "https://cdn.jsdelivr.net/gh/monetnft/monet-run@0.0.44/static/js/main.9bfc4ad3.chunk.js"
+    "revision": "36afa58dfae99e55ef8c",
+    "url": "https://cdn.jsdelivr.net/gh/monetnft/monet-run@0.0.44/static/js/main.53530dfd.chunk.js"
   },
   {
-    "revision": "c359ea98dec724d39bee",
-    "url": "https://cdn.jsdelivr.net/gh/monetnft/monet-run@0.0.44/static/js/runtime-main.d6e4e71e.js"
+    "revision": "63603c55d2ba1cde223e",
+    "url": "https://cdn.jsdelivr.net/gh/monetnft/monet-run@0.0.44/static/js/runtime-main.03487294.js"
   },
   {
     "revision": "14a450a3d2fd191fcefa23b273baaf14",
