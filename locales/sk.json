@@ -437,5 +437,7 @@
     "removing_?_and_?": "{{a}} 및 {{b}} 제거",
     "burned": "불",
     "receive": "받다",
-    "?_per_?": "{{b}} 당 {{a}}"
+    "?_per_?": "{{b}} 당 {{a}}",
+    "when_you_claim_hint": "인출하지 않고 청구하면 유동성이 채굴 풀에 남아 있습니다.",
+    "unclaimed": "청구되지 않은"
 }
