@@ -440,5 +440,16 @@
     "?_per_?": "{{a}} per {{b}}",
     "when_you_claim_hint": "When you claim without withdrawing your liquidity remains in the mining pool.",
     "unclaimed": "Unclaimed",
-    "claim_accumulated_UNI_rewards": "Claim accumulated UNI rewards"
+    "claim_accumulated_UNI_rewards": "Claim accumulated UNI rewards",
+    "deposit_liquidity": "Deposit liquidity",
+    "withdraw_deposited_liquidity": "Withdraw deposited liquidity",
+    "sell_?_?": "Sell {{num}} {{name}}",
+    "summary_request_buy": "Request buy {{number}} card(s) at price {{price}} each. (id: {{id}})",
+    "wrap_eth_to_weth": "Wrap {{number}} ETH to WETH",
+    "unwrap_weth_to_eth": "Unwrap {{number}} WETH to ETH",
+    "insufficient_eth_balance": "Insufficient ETH balance",
+    "insufficient_weth_balance": "Insufficient WETH balance",
+    "could_not_deposit": "Could not deposit",
+    "could_not_withdraw": "Could not withdraw",
+    "claimed_?_UNI": "Claimed {{number}} UNI"
 }

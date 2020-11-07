@@ -439,5 +439,17 @@
     "receive": "接收",
     "?_per_?": "{{b}}每{{a}}",
     "when_you_claim_hint": "當您要求不撤回資金時，您的流動性仍留在採礦池中。",
-    "unclaimed": "未認領"
+    "unclaimed": "未認領",
+    "claim_accumulated_UNI_rewards": "領取累積的UNI獎勵",
+    "deposit_liquidity": "存入流动性",
+    "withdraw_deposited_liquidity": "提取存入的流动性",
+    "sell_?_?": "卖{{num}}个{{name}}",
+    "summary_request_buy": "以每張卡牌{{price}}MNT的價格購買{{number}}張。(id: {{id}})",
+    "wrap_eth_to_weth": "{{number}}ETH封裝成WETH",
+    "unwrap_weth_to_eth": "{{number}}WETH解封成ETH",
+    "insufficient_eth_balance": "ETH餘額不足",
+    "insufficient_weth_balance": "WETH餘額不足",
+    "could_not_deposit": "無法存入",
+    "could_not_withdraw": "無法提現",
+    "claimed_?_UNI": "已領取{{number}}UNI"
 }

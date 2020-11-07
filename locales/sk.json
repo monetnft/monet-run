@@ -439,5 +439,17 @@
     "receive": "받다",
     "?_per_?": "{{b}} 당 {{a}}",
     "when_you_claim_hint": "인출하지 않고 청구하면 유동성이 채굴 풀에 남아 있습니다.",
-    "unclaimed": "청구되지 않은"
+    "unclaimed": "청구되지 않은",
+    "claim_accumulated_UNI_rewards": "누적 된 UNI 보상 청구",
+    "deposit_liquidity": "예금 유동성",
+    "withdraw_deposited_liquidity": "예치 된 유동성 인출",
+    "sell_?_?": "판매 {{num}} {{name}}",
+    "summary_request_buy": "각 {{price}} 가격으로 {{number}} 카드 구매를 요청하세요. (id : {{id}})",
+    "wrap_eth_to_weth": "{{number}} ETH를 WETH로 래핑",
+    "unwrap_weth_to_eth": "{{number}} WETH를 ETH로 풀기",
+    "insufficient_eth_balance": "ETH 잔액 부족",
+    "insufficient_weth_balance": "WETH 잔액 부족",
+    "could_not_deposit": "입금 할 수 없습니다",
+    "could_not_withdraw": "인출 할 수 없습니다",
+    "claimed_?_UNI": "{{number}} UNI 소유권 주장"
 }
