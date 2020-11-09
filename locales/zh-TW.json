@@ -270,7 +270,7 @@
     "import_it": "導入",
     "dont_see_a_pool_you_joined": "看不到您添加的資金池？",
     "uniswap_liquidity_mining": "Monet流動性挖礦",
-    "uniswap_liquidity_mining_hint": "存放您的流動性提供程序令牌以接收L-MNT，即Monet唯一抽獎代幣",
+    "uniswap_liquidity_mining_hint": "存放您的流動性提供者代幣以接收L-MNT，即Monet唯一抽獎代幣",
     "read_more_about_uni": "閱讀更多關於UNI",
     "participating_pools": "參與礦池",
     "no_active_rewards": "無活動獎勵",
