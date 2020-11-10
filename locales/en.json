@@ -451,5 +451,8 @@
     "insufficient_weth_balance": "Insufficient WETH balance",
     "could_not_deposit": "Could not deposit",
     "could_not_withdraw": "Could not withdraw",
-    "claimed_?_UNI": "Claimed {{number}} UNI"
+    "claimed_?_UNI": "Claimed {{number}} UNI",
+    "your_transaction_may_fail": "Your transaction may fail",
+    "enter_a_valid_slippage_percentage": "Enter a valid slippage percentage",
+    "your_transaction_may_be_frontrun": "Your transaction may be frontrun"
 }

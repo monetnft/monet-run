@@ -451,5 +451,8 @@
     "insufficient_weth_balance": "WETH餘額不足",
     "could_not_deposit": "無法存入",
     "could_not_withdraw": "無法提現",
-    "claimed_?_UNI": "已領取{{number}}UNI"
+    "claimed_?_UNI": "已領取{{number}}UNI",
+    "your_transaction_may_fail": "您的交易可能失敗",
+    "enter_a_valid_slippage_percentage": "輸入有效的百分比",
+    "your_transaction_may_be_frontrun": "您的交易可能會搶先交易"
 }

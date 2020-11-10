@@ -451,5 +451,8 @@
     "insufficient_weth_balance": "WETH 잔액 부족",
     "could_not_deposit": "입금 할 수 없습니다",
     "could_not_withdraw": "인출 할 수 없습니다",
-    "claimed_?_UNI": "{{number}} UNI 소유권 주장"
+    "claimed_?_UNI": "{{number}} UNI 소유권 주장",
+    "your_transaction_may_fail": "거래가 실패 할 수 있습니다",
+    "enter_a_valid_slippage_percentage": "유효한 미끄러짐 비율을 입력하세요",
+    "your_transaction_may_be_frontrun": "귀하의 거래는 프론트 런일 수 있습니다"
 }
