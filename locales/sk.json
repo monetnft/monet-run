@@ -476,5 +476,5 @@
     "Finance_approve_msg": "권한이 충분하지 않습니다. 권한이 필요합니다.",
     "Input_big_amount": "입찰 금액을 입력하십시오",
     "finance_end": "입찰 종료",
-    "complete_aution": "목표 입찰 자금에 도달하고 교환이 중지됩니다."
+    "complete_aution": "교환을 중지하기 위해 목표 자금에 도달했습니다."
 }
