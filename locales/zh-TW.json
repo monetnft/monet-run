@@ -477,5 +477,6 @@
     "Finance_approve_msg": "授權金額不足需要授權",
     "Input_big_amount": "請輸入投標金額",
     "finance_end": "投標結束",
-    "complete_aution": "目標資金已達成停止兌換。"
+    "complete_aution": "目標資金已達成停止兌換。",
+    "jump": "跳轉"
 }

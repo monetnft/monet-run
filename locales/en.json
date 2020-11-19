@@ -476,5 +476,6 @@
     "Finance_approve_msg": "Insufficient authorization amount requires authorization",
     "Input_big_amount": "Please enter the bid amount",
     "finance_end": "End of bidding",
-    "complete_aution": "The target funds have been reached to stop the exchange."
+    "complete_aution": "The target funds have been reached to stop the exchange.",
+    "jump": "GO"
 }
